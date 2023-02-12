@@ -1,0 +1,69 @@
+"In this tutorial, we'll be taking a deep dive into the WP Rocket plugin for WordPress. This plugin is widely used to improve the performance and speed of a WordPress website. In this video, we'll be showing you step-by-step how to set up and configure WP Rocket to get the best performance out of your website. The tutorial will be in Hindi, making it easy for those who are more comfortable with the language to follow along. Whether you're a beginner or an experienced WordPress user, this tutorial will give you the knowledge you need to optimize your website with WP Rocket. So sit back, relax, and let's get started!"
+Query Solved In This Video- 
+
+Website speed optimization using WP Rocket
+* Best WordPress plugin for speed
+* Wp rocket WordPress plugin tutorial
+* WP Rocket Best Settings
+* Wp rocket plugin tutorial
+* wp rocket WordPress plugin
+* WordPress speed optimization
+* Website speed plugin WordPress
+* Google Adsense 
+
+ Follow us
+Instagram-https://www.instagram.com/officialpre...
+twitter-https://twitter.com/preetaulakhpb31
+website-https://cityarticle.in.net/
+linkedin-https://www.linkedin.com/in/cinews-ne...
+
+TXT FILE FOR WP ROCKET
+
+getbutton.io
+//a.omappapi.com/app/js/api.min.js
+feedbackcompany.com/includes/widgets/feedback-company-widget.min.js
+snap.licdn.com/li.lms-analytics/insight.min.js
+static.ads-twitter.com/uwt.js
+platform.twitter.com/widgets.js
+twq(
+/sdk.js#xfbml
+static.leadpages.net/leadbars/current/embed.js
+translate.google.com/translate_a/element.js
+widget.manychat.com
+xfbml.customerchat.js
+static.hotjar.com/c/hotjar-
+smartsuppchat.com/loader.js
+grecaptcha.execute
+Tawk_API
+shareaholic
+sharethis
+simple-share-buttons-adder
+addtoany
+font-awesome
+wpdiscuz
+cookie-law-info
+pinit.js
+/gtag/js
+gtag(
+/gtm.js
+/gtm-
+fbevents.js
+fbq(
+google-analytics.com/analytics.js
+ga( ‘
+ga(‘
+adsbygoogle.js
+ShopifyBuy
+widget.trustpilot.com/bootstrap
+ft.sdk.min.js
+apps.elfsight.com/p/platform.js
+livechatinc.com/tracking.js
+LiveChatWidget
+/busting/facebook-tracking/
+olark
+pixel-caffeine/build/frontend.js
+
+#wprocket #websitespeed #wp_rocket
+
+Check this
+https://youtu.be/WwbpSwqONWk
